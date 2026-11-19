@@ -1,0 +1,11 @@
+[requires]
+raylib/6.0
+entt/3.16.0
+pkgconf/2.5.1
+
+[tool_requires]
+ccache/4.12.2
+
+[generators]
+PkgConfigDeps
+MesonToolchain
